@@ -1,0 +1,2 @@
+1.A complete Ubuntu 20.04 LTS has been installed
+2.I am up on Git
