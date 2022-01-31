@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: eece5554pa1
+Description: Description of eece5554pa1
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -leece5554pa1
+Requires: roscpp rospy std_msgs message_runtime
