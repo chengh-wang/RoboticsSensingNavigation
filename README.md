@@ -1,5 +1,8 @@
 # EECE5554
 
+# FOR LAB 4 My ubuntu with gitlab were broken, I can only manually drag file into gitlab, so I only have analysis here.
+
+
 22Spring_EECE5554
 
 ## Getting started
